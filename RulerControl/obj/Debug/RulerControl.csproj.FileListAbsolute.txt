@@ -1,0 +1,13 @@
+D:\Endeavours\Experiments\RulerControl\bin\Debug\RulerControl.dll
+D:\Endeavours\Experiments\RulerControl\bin\Debug\RulerControl.pdb
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.csprojAssemblyReference.cache
+D:\Endeavours\Experiments\RulerControl\obj\Debug\Rulerr.g.cs
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl_MarkupCompile.cache
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl_MarkupCompile.lref
+D:\Endeavours\Experiments\RulerControl\obj\Debug\Rulerr.baml
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.g.resources
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.Properties.Resources.resources
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.csproj.GenerateResource.cache
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.csproj.CoreCompileInputs.cache
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.dll
+D:\Endeavours\Experiments\RulerControl\obj\Debug\RulerControl.pdb

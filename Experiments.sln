@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiments", "Experiments\Experiments.csproj", "{0A4D6792-D2F1-48CA-BD4A-C1B4EB07E553}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB874CCA-4F4C-4092-81B9-FED7FDFD68BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulerControl", "RulerControl\RulerControl.csproj", "{473D7F12-5EF3-4B71-9AC4-5CC13A53F979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4D6792-D2F1-48CA-BD4A-C1B4EB07E553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4D6792-D2F1-48CA-BD4A-C1B4EB07E553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4D6792-D2F1-48CA-BD4A-C1B4EB07E553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4D6792-D2F1-48CA-BD4A-C1B4EB07E553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473D7F12-5EF3-4B71-9AC4-5CC13A53F979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473D7F12-5EF3-4B71-9AC4-5CC13A53F979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473D7F12-5EF3-4B71-9AC4-5CC13A53F979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473D7F12-5EF3-4B71-9AC4-5CC13A53F979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCAC82A-9863-44F6-9D98-5AB15AA32AB1}
+	EndGlobalSection
+EndGlobal

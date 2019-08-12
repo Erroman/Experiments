@@ -1,0 +1,14 @@
+D:\Endeavours\Experiments\Experiments\bin\Debug\Experiments.exe.config
+D:\Endeavours\Experiments\Experiments\bin\Debug\Experiments.exe
+D:\Endeavours\Experiments\Experiments\bin\Debug\Experiments.pdb
+D:\Endeavours\Experiments\Experiments\obj\Debug\MainWindow.g.cs
+D:\Endeavours\Experiments\Experiments\obj\Debug\App.g.cs
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments_MarkupCompile.cache
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments_MarkupCompile.lref
+D:\Endeavours\Experiments\Experiments\obj\Debug\MainWindow.baml
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.g.resources
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.Properties.Resources.resources
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csproj.GenerateResource.cache
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csproj.CoreCompileInputs.cache
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.exe
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.pdb
