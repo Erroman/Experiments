@@ -12,3 +12,7 @@ D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csproj.GenerateResou
 D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csproj.CoreCompileInputs.cache
 D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.exe
 D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.pdb
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csprojAssemblyReference.cache
+D:\Endeavours\Experiments\Experiments\bin\Debug\RulerControl.dll
+D:\Endeavours\Experiments\Experiments\bin\Debug\RulerControl.pdb
+D:\Endeavours\Experiments\Experiments\obj\Debug\Experiments.csproj.CopyComplete

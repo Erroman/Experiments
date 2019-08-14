@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -48,12 +49,12 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Rulerr.xaml">
+    <Page Include="Ruler.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="Rulerr.xaml.cs">
-      <DependentUpon>Rulerr.xaml</DependentUpon>
+    <Compile Include="Ruler.xaml.cs">
+      <DependentUpon>Ruler.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

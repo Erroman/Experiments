@@ -23,6 +23,16 @@ namespace RulerControl
         public Ruler()
         {
             InitializeComponent();
+            // Define the Columns
+            ColumnDefinition colDef1 = new ColumnDefinition();
+            ColumnDefinition colDef2 = new ColumnDefinition();
+            ColumnDefinition colDef3 = new ColumnDefinition();
+
+            RulerBody.ColumnDefinitions.Add(colDef1);
+            RulerBody.ColumnDefinitions.Add(colDef2);
+            RulerBody.ColumnDefinitions.Add(colDef3);
+            RulerBody.ShowGridLines = true;
+
 
         }
     }
